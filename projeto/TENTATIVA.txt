@@ -1,0 +1,4 @@
+mostrar ' aaa '
+mostrar 10 + 5
+mostrar 10 + 5 ' aaa '
+enquanto 4 ate 5

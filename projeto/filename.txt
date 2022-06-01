@@ -1,0 +1,3 @@
+for 1 ate 2
+
+mostrar ' aaa ' , variavel
